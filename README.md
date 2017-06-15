@@ -15,7 +15,7 @@ Link jQuery, switchify-it.min.js and switchify-it.css files in your document
 <script src="js/switchify-it.min.js"></script>
 <link href="css/switchify-it.css" rel="stylesheet" />
 ```
-All you need are a few elements with the class "swap-content" and "swap-button", like so:
+All you need are a few elements with the classes "swap-content" and "swap-button" as well as "data-order" attribute for each, defining the order in which the content and buttons should be displayed. Like so:
 ```
 <div class="swap-content" data-order="1">Initial content</div>
 <div class="swap-content" data-order="2">Content After Button 1 is Clicked</div>
