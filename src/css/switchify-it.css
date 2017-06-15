@@ -1,0 +1,15 @@
+.swap-content {
+  display: none;
+}
+
+.swap-button {
+  display: none;
+}
+
+.si-show {
+  display: block;
+}
+
+.si-hide {
+  display: none;
+}
