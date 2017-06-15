@@ -4,8 +4,11 @@ A simple, responsive content swapper for humans.
 Project website (including an example): http://www.craigmcnaught.uk.to/switchify-it
 
 # This is how you use it:
-Download the Switchify-It package (1.27kb)
+
+[Download the Switchify-It package (1.27kb)](http://www.craigmcnaught.uk.to/switchify-it/downloads/switchify-it-v1.0.1.zip)
+
 Extract it to your project folder
+
 Link jQuery, switchify-it.min.js and switchify-it.css files in your document
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
