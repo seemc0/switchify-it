@@ -120,7 +120,6 @@ var switchifyIt = {
     var nextElementHeight = si.getNextContentHeight(si, nextElement, currentElementHeight);
     si.disableAllButtons(si);
     si.hideElement(si, currentElement);
-    console.log(si.oneButtonOnly);
     if (!si.oneButtonOnly) {
       si.hideElement(si, currentButton);
     }
